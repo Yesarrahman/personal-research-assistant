@@ -1,10 +1,7 @@
-# 🔍 Personal Research Assistant Agent
+# Personal Research Assistant Agent
 
 > **Multi-Agent AI System for Automated Web Research**
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Gemini](https://img.shields.io/badge/Gemini-2.5-purple.svg)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Google AI Agents Intensive - Capstone Project**  
 **Track:** Concierge Agents  
@@ -31,7 +28,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 The **Personal Research Assistant Agent** is an intelligent multi-agent system that automates web research tasks. It combines three specialized AI agents powered by Google Gemini 2.5 to search, analyze, and synthesize information from multiple sources—reducing research time from hours to minutes.
 
@@ -47,7 +44,7 @@ The **Personal Research Assistant Agent** is an intelligent multi-agent system t
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 ### The Challenge
 
@@ -87,7 +84,7 @@ Conducting thorough research online has become paradoxically more difficult desp
 
 ---
 
-## ✨ Solution
+## Solution
 
 ### Multi-Agent Research Automation
 
@@ -129,9 +126,9 @@ User Query → Coordinator → Researcher → Summarizer → Comprehensive Repor
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### ✅ Multi-Agent Architecture
+### Multi-Agent Architecture
 - Three specialized AI agents with distinct roles
 - Sequential workflow for optimal results
 - Agent coordination and communication
@@ -501,7 +498,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Yesar Rahman]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -549,25 +546,26 @@ SOFTWARE.
 
 ## 📞 Contact & Support
 
-**Project Author:** [Your Name]  
-**Email:** your.email@example.com  
+**Project Author:** [Yesar Rahman]  
+**Email:** yesarrahman@gmail.com  
 **GitHub:** [@Yesarrahman](https://github.com/Yesarrahman)  
 **LinkedIn:** [Yesar Rahman](https://www.linkedin.com/in/yesar-rahman-04463643/)
 
-**Project Link:** https://github.com/Yesarrahman/research-assistant-agent
+**Project Link:** https://github.com/Yesarrahman/personal-research-assistant
 
 ---
 
 ## 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/Yesarrahman/research-assistant-agent)
-![GitHub forks](https://img.shields.io/github/forks/Yesarrahman/research-assistant-agent)
-![GitHub issues](https://img.shields.io/github/issues/Yesarrahman/research-assistant-agent)
-![GitHub license](https://img.shields.io/github/license/Yesarrahman/research-assistant-agent)
+![GitHub stars](https://img.shields.io/github/stars/Yesarrahman/personal-research-assistant)
+![GitHub forks](https://img.shields.io/github/forks/Yesarrahman/personal-research-assistant)
+![GitHub issues](https://img.shields.io/github/issues/Yesarrahman/personal-research-assistant)
+![GitHub license](https://img.shields.io/github/license/Yesarrahman/personal-research-assistant)
 
 ---
 
 **Built with ❤️ for the Google AI Agents Intensive Capstone Project**
 
-*Transforming hours of manual research into minutes of automated intelligence.*#   p e r s o n a l - r e s e a r c h - a s s i s t a n t  
+*Transforming hours of manual research into minutes of automated intelligence.*#   p e r s o n a l - r e s e a r c h - a s s i s t a n t 
+ 
  
