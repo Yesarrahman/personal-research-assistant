@@ -1,0 +1,15 @@
+### **4. Create .dockerignore**
+.env
+.git
+.gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.vscode/
+.idea/
+*.md
+.DS_Store
+*.log
